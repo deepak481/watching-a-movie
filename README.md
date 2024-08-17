@@ -25,13 +25,13 @@ This Movie Browser application is a responsive, mobile-first web app built using
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/movie-browser.git
+   git clone https://github.com/deepak481/watching-a-movie.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd movie-browser
+   cd watching-a-movie
    ```
 
 3. Install dependencies:
