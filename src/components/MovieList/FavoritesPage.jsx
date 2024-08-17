@@ -28,12 +28,6 @@ const FavoritesPage = ({ onMovieSelect }) => {
           <p className='text-xl text-gray-600 mb-8'>
             Start exploring movies and add some to your favorites!
           </p>
-          <button
-            onClick={() => window.history.back()}
-            className='bg-primary hover:bg-primary-dark text-white font-bold py-3 px-6 rounded-full transition duration-300 ease-in-out transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-primary focus:ring-opacity-50'
-          >
-            Discover Movies
-          </button>
         </div>
       ) : (
         <>
